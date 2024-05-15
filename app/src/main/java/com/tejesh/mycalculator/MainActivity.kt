@@ -128,6 +128,6 @@ class MainActivity : AppCompatActivity() {
             value = result.substring(0, result.length - 2)
 
         return  value
-        //-
+
     }
 }
